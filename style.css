@@ -1,0 +1,17 @@
+body {
+  margin: 100px;
+}
+button {
+  font-size: 20px;
+}
+
+.itk-slider {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+
+  background-color: #f5efef;
+}
+.slide__img {
+  max-width: 80%;
+}
